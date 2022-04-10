@@ -15,3 +15,5 @@ npx hardhat node
 // to run the scripts
 npx hardhat run scripts/deploy-hello.ts --network localhost
 ```
+
+Got bored, decided to continue the [course](https://frontendmasters.com/courses/web3-smart-contracts) at a later point.
